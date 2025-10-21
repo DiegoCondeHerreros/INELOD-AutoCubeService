@@ -1,0 +1,10 @@
+[theme]
+base="light"           # or "dark"
+primaryColor="#4F46E5" # indigo
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#F6F6F9"
+textColor="#111827"
+
+[server]
+maxUploadSize = 50000
+maxMessageSize = 50000
